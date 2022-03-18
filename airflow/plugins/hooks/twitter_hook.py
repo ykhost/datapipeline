@@ -2,9 +2,10 @@ from airflow.hooks.http_hook import HttpHook
 import requests
 import json
 
+
 class TwitterHook(HttpHook):
 
-    def __init__(self, query, conn_id = None, start_time = None, end_time = None):
+    def __init__(self, query, conn_id=None, start_time=None, end_time=None):
         self.query = query
         self.conn_id = conn_id or "twitter_default"
         self.start_time = start_time
@@ -36,7 +37,6 @@ class TwitterHook(HttpHook):
         self.log.info(f"URL: {url}")
         return self.run_and_check(session, prep, {}).json()
 
-
     def paginate(self, url, session, next_token=""):
         if next_token:
             full_url = f"{url}&next_token={next_token}"
@@ -47,13 +47,13 @@ class TwitterHook(HttpHook):
         if "next_token" in data.get("meta", {}):
             yield from self.paginate(url, session, data['meta']['next_token'])
 
-
     def run(self):
         session = self.get_conn()
 
         url = self.create_url()
 
         yield from self.paginate(url, session)
+
 
 if __name__ == "__main__":
     for pg in TwitterHook("AluraOnline").run():

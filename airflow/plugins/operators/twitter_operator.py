@@ -1,14 +1,12 @@
+from hooks.twitter_hook import TwitterHook
+from airflow.utils.decorators import apply_defaults
+from airflow.models import DAG, BaseOperator, TaskInstance
+from os.path import join
+from pathlib import Path
+from datetime import datetime, timedelta
+import json
 import sys
 sys.path.append("/run/datapipeline/airflow/plugins")
-
-import json
-from datetime import datetime, timedelta
-from pathlib import Path
-from os.path import join
-
-from airflow.models import DAG, BaseOperator, TaskInstance
-from airflow.utils.decorators import apply_defaults
-from hooks.twitter_hook import TwitterHook
 
 
 class TwitterOperator(BaseOperator):
@@ -25,9 +23,9 @@ class TwitterOperator(BaseOperator):
         self,
         query,
         file_path,
-        conn_id = None,
-        start_time = None,
-        end_time = None,
+        conn_id=None,
+        start_time=None,
+        end_time=None,
         *args, **kwargs
     ):
         super().__init__(*args, **kwargs)
@@ -53,17 +51,19 @@ class TwitterOperator(BaseOperator):
                 json.dump(pg, output_file, ensure_ascii=False)
                 output_file.write("\n")
 
+
 if __name__ == "__main__":
     with DAG(dag_id="TwitterTest", start_date=datetime.now()) as dag:
         to = TwitterOperator(
             query="AluraOnline",
             file_path=join(
                 "/run/datapipeline/datalake",
-                "twitter_aluraonline",
+                "twitter_bbb22",
                 "extract_date={{ ds }}",
-                "AluraOnline_{{ ds_nodash }}.json"
-                ),
+                "BBB22_{{ ds_nodash }}.json"
+            ),
             task_id="test_run"
         )
-        ti = TaskInstance(task=to, execution_date=datetime.now() - timedelta(days=1))
+        ti = TaskInstance(
+            task=to, execution_date=datetime.now() - timedelta(days=1))
         ti.run()

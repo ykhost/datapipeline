@@ -1,0 +1,48 @@
+[2022-03-15 19:27:05,975] {taskinstance.py:670} INFO - Dependencies all met for <TaskInstance: twitter_dag.twitter_aluraonline 2022-03-11T09:00:00+00:00 [queued]>
+[2022-03-15 19:27:05,980] {taskinstance.py:670} INFO - Dependencies all met for <TaskInstance: twitter_dag.twitter_aluraonline 2022-03-11T09:00:00+00:00 [queued]>
+[2022-03-15 19:27:05,980] {taskinstance.py:880} INFO - 
+--------------------------------------------------------------------------------
+[2022-03-15 19:27:05,980] {taskinstance.py:881} INFO - Starting attempt 1 of 1
+[2022-03-15 19:27:05,980] {taskinstance.py:882} INFO - 
+--------------------------------------------------------------------------------
+[2022-03-15 19:27:05,986] {taskinstance.py:901} INFO - Executing <Task(TwitterOperator): twitter_aluraonline> on 2022-03-11T09:00:00+00:00
+[2022-03-15 19:27:05,988] {standard_task_runner.py:54} INFO - Started process 31044 to run task
+[2022-03-15 19:27:06,017] {standard_task_runner.py:77} INFO - Running: ['airflow', 'run', 'twitter_dag', 'twitter_aluraonline', '2022-03-11T09:00:00+00:00', '--job_id', '73', '--pool', 'default_pool', '--raw', '-sd', 'DAGS_FOLDER/twitter_dag.py', '--cfg_path', '/tmp/tmpi04805pr']
+[2022-03-15 19:27:06,017] {standard_task_runner.py:78} INFO - Job 73: Subtask twitter_aluraonline
+[2022-03-15 19:27:06,031] {logging_mixin.py:112} INFO - Running <TaskInstance: twitter_dag.twitter_aluraonline 2022-03-11T09:00:00+00:00 [running]> on host 1a222f561522
+[2022-03-15 19:27:06,060] {base_hook.py:89} INFO - Using connection to: id: twitter_default. Host: https://api.twitter.com, Port: None, Schema: None, Login: None, Password: None, extra: XXXXXXXX
+[2022-03-15 19:27:06,062] {twitter_hook.py:37} INFO - URL: https://api.twitter.com/2/tweets/search/recent?query=AluraOnline&tweet.fields=author_id,conversation_id,created_at,id,in_reply_to_user_id,public_metrics,text&expansions=author_id&user.fields=id,name,username,created_at&start_time=2022-03-11T09:00:00.00Z&end_time=2022-03-12T09:00:00.00Z
+[2022-03-15 19:27:06,081] {logging_mixin.py:112} WARNING - /run/datapipeline/.env/lib/python3.8/site-packages/urllib3/connectionpool.py:981: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.twitter.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  warnings.warn(
+[2022-03-15 19:27:06,347] {twitter_hook.py:37} INFO - URL: https://api.twitter.com/2/tweets/search/recent?query=AluraOnline&tweet.fields=author_id,conversation_id,created_at,id,in_reply_to_user_id,public_metrics,text&expansions=author_id&user.fields=id,name,username,created_at&start_time=2022-03-11T09:00:00.00Z&end_time=2022-03-12T09:00:00.00Z&next_token=b26v89c19zqg8o3fpyqm33x22356dzs6eodn88j45vcl9
+[2022-03-15 19:27:06,348] {logging_mixin.py:112} WARNING - /run/datapipeline/.env/lib/python3.8/site-packages/urllib3/connectionpool.py:981: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.twitter.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  warnings.warn(
+[2022-03-15 19:27:06,625] {twitter_hook.py:37} INFO - URL: https://api.twitter.com/2/tweets/search/recent?query=AluraOnline&tweet.fields=author_id,conversation_id,created_at,id,in_reply_to_user_id,public_metrics,text&expansions=author_id&user.fields=id,name,username,created_at&start_time=2022-03-11T09:00:00.00Z&end_time=2022-03-12T09:00:00.00Z&next_token=b26v89c19zqg8o3fpyqm31sbwqyuc16j3rzlo6mmmy9od
+[2022-03-15 19:27:06,625] {logging_mixin.py:112} WARNING - /run/datapipeline/.env/lib/python3.8/site-packages/urllib3/connectionpool.py:981: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.twitter.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  warnings.warn(
+[2022-03-15 19:27:06,838] {taskinstance.py:1057} INFO - Marking task as SUCCESS.dag_id=twitter_dag, task_id=twitter_aluraonline, execution_date=20220311T090000, start_date=20220315T192705, end_date=20220315T192706
+[2022-03-15 19:27:10,973] {local_task_job.py:102} INFO - Task exited with return code 0
+[2022-03-15 21:27:50,586] {taskinstance.py:670} INFO - Dependencies all met for <TaskInstance: twitter_dag.twitter_aluraonline 2022-03-11T09:00:00+00:00 [queued]>
+[2022-03-15 21:27:50,591] {taskinstance.py:670} INFO - Dependencies all met for <TaskInstance: twitter_dag.twitter_aluraonline 2022-03-11T09:00:00+00:00 [queued]>
+[2022-03-15 21:27:50,591] {taskinstance.py:880} INFO - 
+--------------------------------------------------------------------------------
+[2022-03-15 21:27:50,591] {taskinstance.py:881} INFO - Starting attempt 1 of 1
+[2022-03-15 21:27:50,591] {taskinstance.py:882} INFO - 
+--------------------------------------------------------------------------------
+[2022-03-15 21:27:50,597] {taskinstance.py:901} INFO - Executing <Task(TwitterOperator): twitter_aluraonline> on 2022-03-11T09:00:00+00:00
+[2022-03-15 21:27:50,598] {standard_task_runner.py:54} INFO - Started process 4818 to run task
+[2022-03-15 21:27:50,628] {standard_task_runner.py:77} INFO - Running: ['airflow', 'run', 'twitter_dag', 'twitter_aluraonline', '2022-03-11T09:00:00+00:00', '--job_id', '74', '--pool', 'default_pool', '--raw', '-sd', 'DAGS_FOLDER/twitter_dag.py', '--cfg_path', '/tmp/tmpycumih9u']
+[2022-03-15 21:27:50,628] {standard_task_runner.py:78} INFO - Job 74: Subtask twitter_aluraonline
+[2022-03-15 21:27:50,644] {logging_mixin.py:112} INFO - Running <TaskInstance: twitter_dag.twitter_aluraonline 2022-03-11T09:00:00+00:00 [running]> on host 1a222f561522
+[2022-03-15 21:27:50,675] {base_hook.py:89} INFO - Using connection to: id: twitter_default. Host: https://api.twitter.com, Port: None, Schema: None, Login: None, Password: None, extra: XXXXXXXX
+[2022-03-15 21:27:50,677] {twitter_hook.py:37} INFO - URL: https://api.twitter.com/2/tweets/search/recent?query=AluraOnline&tweet.fields=author_id,conversation_id,created_at,id,in_reply_to_user_id,public_metrics,text&expansions=author_id&user.fields=id,name,username,created_at&start_time=2022-03-11T09:00:00.00Z&end_time=2022-03-12T09:00:00.00Z
+[2022-03-15 21:27:50,696] {logging_mixin.py:112} WARNING - /run/datapipeline/.env/lib/python3.8/site-packages/urllib3/connectionpool.py:981: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.twitter.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  warnings.warn(
+[2022-03-15 21:27:50,971] {twitter_hook.py:37} INFO - URL: https://api.twitter.com/2/tweets/search/recent?query=AluraOnline&tweet.fields=author_id,conversation_id,created_at,id,in_reply_to_user_id,public_metrics,text&expansions=author_id&user.fields=id,name,username,created_at&start_time=2022-03-11T09:00:00.00Z&end_time=2022-03-12T09:00:00.00Z&next_token=b26v89c19zqg8o3fpyqm33x22356dzs6eodn88j45vcl9
+[2022-03-15 21:27:50,971] {logging_mixin.py:112} WARNING - /run/datapipeline/.env/lib/python3.8/site-packages/urllib3/connectionpool.py:981: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.twitter.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  warnings.warn(
+[2022-03-15 21:27:51,255] {twitter_hook.py:37} INFO - URL: https://api.twitter.com/2/tweets/search/recent?query=AluraOnline&tweet.fields=author_id,conversation_id,created_at,id,in_reply_to_user_id,public_metrics,text&expansions=author_id&user.fields=id,name,username,created_at&start_time=2022-03-11T09:00:00.00Z&end_time=2022-03-12T09:00:00.00Z&next_token=b26v89c19zqg8o3fpyqm31sbwqyuc16j3rzlo6mmmy9od
+[2022-03-15 21:27:51,256] {logging_mixin.py:112} WARNING - /run/datapipeline/.env/lib/python3.8/site-packages/urllib3/connectionpool.py:981: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.twitter.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  warnings.warn(
+[2022-03-15 21:27:51,485] {taskinstance.py:1057} INFO - Marking task as SUCCESS.dag_id=twitter_dag, task_id=twitter_aluraonline, execution_date=20220311T090000, start_date=20220315T212750, end_date=20220315T212751
+[2022-03-15 21:27:55,583] {local_task_job.py:102} INFO - Task exited with return code 0

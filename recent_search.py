@@ -11,7 +11,7 @@ def auth():
 
 
 def create_url():
-    query = "AluraOnline"
+    query = "PA BBB"
     # Tweet fields are adjustable.
     # Options include:
     # attachments, author_id, context_annotations,
@@ -19,9 +19,9 @@ def create_url():
     # in_reply_to_user_id, lang, non_public_metrics, organic_metrics,
     # possibly_sensitive, promoted_metrics, public_metrics, referenced_tweets,
     # source, text, and withheld
-    tweet_fields = "tweet.fields=author_id,conversation_id,created_at,id,in_reply_to_user_id,public_metrics,text"
+    tweet_fields = "tweet.fields=author_id,created_at,id,public_metrics,text"
     user_fields = "expansions=author_id&user.fields=id,name,username,created_at"
-    filters = "start_time=2021-02-15T00:00:00.00Z&end_time=2021-02-19T00:00:00.00Z"
+    filters = "start_time=2022-03-09T00:00:00.00Z&end_time=2022-03-13T00:00:00.00Z"
     url = "https://api.twitter.com/2/tweets/search/recent?query={}&{}&{}&{}".format(
         query, tweet_fields, user_fields, filters
     )
@@ -50,6 +50,7 @@ def paginate(url, headers, next_token=""):
     yield data
     if "next_token" in data.get("meta", {}):
         yield from paginate(url, headers, data['meta']['next_token'])
+
 
 def main():
     bearer_token = auth()

@@ -1,7 +1,1265 @@
-{"data": [{"text": "@AluraOnline ei Alura, me dá uma bolsa vai, pfv", "conversation_id": "1485977374667812866", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 0, "quote_count": 0}, "author_id": "170777351", "id": "1486207037969244166", "in_reply_to_user_id": "1566580880", "created_at": "2022-01-26T05:19:04.000Z"}, {"text": "@bioconstrutora @AluraOnline Tentei a semana passada inteira, mas agora criaram o grupo no wpp, acredito que vai resolver, já teve muita coisa?", "conversation_id": "1484282635811700741", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 0, "quote_count": 0}, "author_id": "1445140257083691023", "id": "1486185134709690368", "in_reply_to_user_id": "1228286942707691525", "created_at": "2022-01-26T03:52:02.000Z"}, {"text": "8. Faço trabalhos voluntários desde 2015 em diversas causas, online e presenciais e acredito muito no valor que agrega\n\n9. Amo estudar, além das pós ainda sou assinante da @AluraOnline pra fazer vários cursos e sempre vou pra eventos da minha área (+)", "conversation_id": "1486173223502987269", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 3, "quote_count": 0}, "author_id": "1358214206257037313", "id": "1486173230079614976", "in_reply_to_user_id": "1358214206257037313", "created_at": "2022-01-26T03:04:44.000Z"}, {"text": "@pachicodes @AluraOnline Pois continue fazendo o desafio!!! Aposto que você vai se surpreender com a praticidade", "conversation_id": "1485966875041349636", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 1, "quote_count": 0}, "author_id": "260346820", "id": "1486165234146553856", "in_reply_to_user_id": "1088416218556579841", "created_at": "2022-01-26T02:32:58.000Z"}, {"text": "@LuStrica @AluraOnline Eu nunca mexi de verdade com o React, então não tive esse problema lol", "conversation_id": "1485966875041349636", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 1, "quote_count": 0}, "author_id": "1088416218556579841", "id": "1486164447181877257", "in_reply_to_user_id": "260346820", "created_at": "2022-01-26T02:29:50.000Z"}, {"text": "@pachicodes @AluraOnline iti, adorei o seu todo temático 💕 foi divertido de fazer, adoro os desafios da Alura\n\nA parte difícil foi segurar a vontade de usar o styled components kkk", "conversation_id": "1485966875041349636", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 1, "quote_count": 0}, "author_id": "260346820", "id": "1486162598622121987", "in_reply_to_user_id": "1088416218556579841", "created_at": "2022-01-26T02:22:29.000Z"}, {"text": "@LuStrica @AluraOnline Iti que fofinho tá o seu!!!! As corem me lembram um dos meus temas favoritas do VScode", "conversation_id": "1485966875041349636", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 1, "quote_count": 0}, "author_id": "1088416218556579841", "id": "1486161563241574400", "in_reply_to_user_id": "260346820", "created_at": "2022-01-26T02:18:22.000Z"}, {"text": "Finalizando o dia com a #imersaoreact da @AluraOnline  e a realização dos desafios do @omariosouto  e @paulo_caelum https://t.co/CK6PYeWUPJ", "conversation_id": "1486161177491169284", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 3, "quote_count": 0}, "author_id": "590368874", "id": "1486161177491169284", "created_at": "2022-01-26T02:16:50.000Z"}, {"text": "@feminis_tech @AluraOnline Vou tentar deixar mais Feministecado lol", "conversation_id": "1486129540145598464", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 1, "quote_count": 0}, "author_id": "1088416218556579841", "id": "1486160427054682112", "in_reply_to_user_id": "1286695925843468296", "created_at": "2022-01-26T02:13:51.000Z"}, {"text": "RT @pachicodes: Estou atrasadinha na Imersão #React da @AluraOnline  lol\nMas fiz aqui o Aluracord com a paleta da @feminis_tech \nAgora fora…", "conversation_id": "1486156946566782980", "public_metrics": {"retweet_count": 4, "reply_count": 0, "like_count": 0, "quote_count": 0}, "author_id": "1286695925843468296", "id": "1486156946566782980", "created_at": "2022-01-26T02:00:02.000Z"}], "includes": {"users": [{"created_at": "2010-07-25T18:57:43.000Z", "id": "170777351", "name": "cansadita", "username": "warsemmidia"}, {"created_at": "2021-10-04T21:34:42.000Z", "id": "1445140257083691023", "name": "Patricia Rodrigues", "username": "apatinharod"}, {"created_at": "2021-02-07T00:41:22.000Z", "id": "1358214206257037313", "name": "Somer 🪐 #DicaSomerspace", "username": "somerspace"}, {"created_at": "2011-03-03T18:13:09.000Z", "id": "260346820", "name": "Aloy", "username": "LuStrica"}, {"created_at": "2019-01-24T12:40:23.000Z", "id": "1088416218556579841", "name": "⭐ Pachi Parra Codes✨ ex-gringa", "username": "pachicodes"}, {"created_at": "2012-05-25T22:27:04.000Z", "id": "590368874", "name": "Rafavini", "username": "R4faelVinicius"}, {"created_at": "2020-07-24T16:13:41.000Z", "id": "1286695925843468296", "name": "Feministech", "username": "feminis_tech"}]}, "meta": {"newest_id": "1486207037969244166", "oldest_id": "1486156946566782980", "result_count": 10, "next_token": "b26v89c19zqg8o3fpe47mxttnvxl7hjlamdenappqjbst"}}
-{"data": [{"conversation_id": "1486129540145598464", "author_id": "1286695925843468296", "text": "@pachicodes @AluraOnline Que lindo! 🤍🤍🤍", "created_at": "2022-01-26T01:59:45.000Z", "id": "1486156874877652992", "in_reply_to_user_id": "1088416218556579841", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 1, "quote_count": 0}}, {"conversation_id": "1486153492494434311", "author_id": "1048298121866989571", "text": "RT @levxyca: 2º dia da Imersão React da @AluraOnline finalizado com sucesso 💫\n\nPersonalização da página principal, uma segunda página(que a…", "created_at": "2022-01-26T01:46:18.000Z", "id": "1486153492494434311", "public_metrics": {"retweet_count": 2, "reply_count": 0, "like_count": 0, "quote_count": 0}}, {"conversation_id": "1486153317566894082", "author_id": "1048298121866989571", "text": "RT @pachicodes: Estou atrasadinha na Imersão #React da @AluraOnline  lol\nMas fiz aqui o Aluracord com a paleta da @feminis_tech \nAgora fora…", "created_at": "2022-01-26T01:45:36.000Z", "id": "1486153317566894082", "public_metrics": {"retweet_count": 4, "reply_count": 0, "like_count": 0, "quote_count": 0}}, {"conversation_id": "1486134095281336329", "author_id": "1088416218556579841", "text": "@levxyca @AluraOnline Tá bem lindão!", "created_at": "2022-01-26T01:45:14.000Z", "id": "1486153221315997707", "in_reply_to_user_id": "1035093640232820738", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 1, "quote_count": 0}}, {"conversation_id": "1486076804980957197", "author_id": "1477429212940275716", "text": "@AluraOnline Deploy de sexta-feira não deveria nem ter entrado na casa kkkkkkkkk", "created_at": "2022-01-26T01:34:28.000Z", "id": "1486150512273723393", "in_reply_to_user_id": "1566580880", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 2, "quote_count": 0}}, {"conversation_id": "1485674604152729616", "author_id": "2924875982", "text": "@FroidPat @AluraOnline @omariosouto @paulo_caelum Como você colocou o background com gif? to tentando a um tempo já e não consigo", "created_at": "2022-01-26T01:28:18.000Z", "id": "1486148963669622789", "in_reply_to_user_id": "1028104898120966144", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 0, "quote_count": 0}}, {"conversation_id": "1486143301141114880", "author_id": "1486041389536272391", "text": "Desafio do 2º dia (exterminate) completado com sucesso!\n@AluraOnline \n#imersaoreact https://t.co/FnNfchFNo0", "created_at": "2022-01-26T01:05:48.000Z", "id": "1486143301141114880", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 0, "quote_count": 0}}, {"conversation_id": "1486129540145598464", "author_id": "1483601235617980419", "text": "@pachicodes @AluraOnline @feminis_tech Q linda 🌹", "created_at": "2022-01-26T00:59:04.000Z", "id": "1486141603400069122", "in_reply_to_user_id": "1088416218556579841", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 2, "quote_count": 0}}, {"conversation_id": "1486129540145598464", "author_id": "1035093640232820738", "text": "@pachicodes @AluraOnline @feminis_tech ficou lindooooo 🥺💙⭐", "created_at": "2022-01-26T00:47:47.000Z", "id": "1486138766846836741", "in_reply_to_user_id": "1088416218556579841", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 2, "quote_count": 0}}, {"conversation_id": "1486134095281336329", "author_id": "1035093640232820738", "text": "@cloupper_ @AluraOnline ahhhhhh obrigada!! posta sim que eu quero ver também 😊", "created_at": "2022-01-26T00:37:33.000Z", "id": "1486136191506337792", "in_reply_to_user_id": "1413597574033035266", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 1, "quote_count": 0}}], "includes": {"users": [{"name": "Feministech", "created_at": "2020-07-24T16:13:41.000Z", "id": "1286695925843468296", "username": "feminis_tech"}, {"name": "Lissa Ferreira", "created_at": "2018-10-05T19:45:23.000Z", "id": "1048298121866989571", "username": "lissadev_"}, {"name": "⭐ Pachi Parra Codes✨ ex-gringa", "created_at": "2019-01-24T12:40:23.000Z", "id": "1088416218556579841", "username": "pachicodes"}, {"name": "Anne", "created_at": "2022-01-01T23:59:23.000Z", "id": "1477429212940275716", "username": "ennaiadaianne_"}, {"name": "LiiPeee || Dev orientado cachaça", "created_at": "2014-12-10T00:31:42.000Z", "id": "2924875982", "username": "TopLiPee"}, {"name": "Jéssica Motta", "created_at": "2022-01-25T18:21:21.000Z", "id": "1486041389536272391", "username": "JessMotta17"}, {"name": "Debs", "created_at": "2022-01-19T00:44:57.000Z", "id": "1483601235617980419", "username": "samadhi7k"}, {"name": "Leticia 'levxyca' 💫 (ela/dela)", "created_at": "2018-08-30T09:15:29.000Z", "id": "1035093640232820738", "username": "levxyca"}]}, "meta": {"newest_id": "1486156874877652992", "oldest_id": "1486136191506337792", "result_count": 10, "next_token": "b26v89c19zqg8o3fpe47mxt82zharpkjvvr4oshj6jxj1"}}
-{"data": [{"id": "1486135560720814082", "text": "@levxyca @AluraOnline aaaa ta ficando incrivel levy!!!\n\neu tbm to fazendo, mas comecei hoje dlksjkd em breve posto o meu tbm", "author_id": "1413597574033035266", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 1, "quote_count": 0}, "created_at": "2022-01-26T00:35:03.000Z", "in_reply_to_user_id": "1035093640232820738", "conversation_id": "1486134095281336329"}, {"id": "1486134434696994819", "text": "@AluraOnline participação especial da @pachicodes 😂", "author_id": "1035093640232820738", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 1, "quote_count": 0}, "created_at": "2022-01-26T00:30:34.000Z", "in_reply_to_user_id": "1035093640232820738", "conversation_id": "1486134095281336329"}, {"id": "1486134095281336329", "text": "2º dia da Imersão React da @AluraOnline finalizado com sucesso 💫\n\nPersonalização da página principal, uma segunda página(que ainda será desenvolvida) e o desafio de fazer uma validação para mudar a foto apenas se tiver mais de 2 caracteres.\n\nLink: https://t.co/82ClZ99ZiO https://t.co/RnRBw9b1YK", "author_id": "1035093640232820738", "public_metrics": {"retweet_count": 2, "reply_count": 3, "like_count": 36, "quote_count": 0}, "created_at": "2022-01-26T00:29:14.000Z", "conversation_id": "1486134095281336329"}, {"id": "1486131461568987136", "text": "RT @pachicodes: Estou atrasadinha na Imersão #React da @AluraOnline  lol\nMas fiz aqui o Aluracord com a paleta da @feminis_tech \nAgora fora…", "author_id": "1311904892076781568", "public_metrics": {"retweet_count": 4, "reply_count": 0, "like_count": 0, "quote_count": 0}, "created_at": "2022-01-26T00:18:46.000Z", "conversation_id": "1486131461568987136"}, {"id": "1486129540145598464", "text": "Estou atrasadinha na Imersão #React da @AluraOnline  lol\nMas fiz aqui o Aluracord com a paleta da @feminis_tech \nAgora fora fzer o dia dois e tentar não ser sempre atrasada lol https://t.co/t7cGdjMfIA", "author_id": "1088416218556579841", "public_metrics": {"retweet_count": 4, "reply_count": 5, "like_count": 37, "quote_count": 0}, "created_at": "2022-01-26T00:11:07.000Z", "conversation_id": "1486129540145598464"}, {"id": "1486126069363130374", "text": "Tô participando do challenge @AluraOnline + Oracle. Passei 3h pra fazer dois botões ficarem lado a lado e não sei até agora como funcionou.", "author_id": "1384283873257746432", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 0, "quote_count": 0}, "created_at": "2022-01-25T23:57:20.000Z", "conversation_id": "1486126069363130374"}, {"id": "1486111122025590786", "text": "Postando hoje dnv sobre a #ImersaoReact da @AluraOnline,  fiz os desafios da página 404, a API do GitHub eu estou usando pra pegar o nome e exibir abaixo do username e a foto padrão do Jotaro para caso digite um nome com menos de 2 caracteres. https://t.co/dawXfVqe2p", "author_id": "787495566917898241", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 1, "quote_count": 0}, "created_at": "2022-01-25T22:57:56.000Z", "conversation_id": "1486111122025590786"}, {"id": "1486089377612763138", "text": "A ideia não foi das melhores, mas eu particularmente gostei kkkkkk\n\nO dia 2 foi incrível, ansioso para os próximos desafios!\n\n@alura @omariosouto @paulo_caelum @AluraOnline #react #imersaoreact #alura https://t.co/OpWqXiUXZ2", "author_id": "1486087529480835086", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 0, "quote_count": 0}, "created_at": "2022-01-25T21:31:32.000Z", "conversation_id": "1486089377612763138"}, {"id": "1486089265624883205", "text": "@Carol_andrades1 @AluraOnline @omariosouto @paulo_caelum Tá muito bom, parabéns Carol 👏👏", "author_id": "1726101866", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 2, "quote_count": 0}, "created_at": "2022-01-25T21:31:05.000Z", "in_reply_to_user_id": "1253720856758562817", "conversation_id": "1486086494863437838"}, {"id": "1486083832977797127", "text": "essa aqui foi difícil https://t.co/a3rZ9nvmDK", "author_id": "47963791", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 0, "quote_count": 0}, "created_at": "2022-01-25T21:09:30.000Z", "conversation_id": "1486083832977797127"}], "includes": {"users": [{"username": "cloupper_", "id": "1413597574033035266", "created_at": "2021-07-09T20:35:48.000Z", "name": "clope "}, {"username": "levxyca", "id": "1035093640232820738", "created_at": "2018-08-30T09:15:29.000Z", "name": "Leticia 'levxyca' 💫 (ela/dela)"}, {"username": "coder_487", "id": "1311904892076781568", "created_at": "2020-10-02T05:44:47.000Z", "name": "Tech-Bot"}, {"username": "pachicodes", "id": "1088416218556579841", "created_at": "2019-01-24T12:40:23.000Z", "name": "⭐ Pachi Parra Codes✨ ex-gringa"}, {"username": "akrolrodrigues", "id": "1384283873257746432", "created_at": "2021-04-19T23:13:09.000Z", "name": "Carol Rodrigues"}, {"username": "LaraUchiha_", "id": "787495566917898241", "created_at": "2016-10-16T03:29:09.000Z", "name": "Clara | 📖 : Orgulho e Preconceito"}, {"username": "whoiscaio1", "id": "1486087529480835086", "created_at": "2022-01-25T21:24:43.000Z", "name": "whoiscaio"}, {"username": "victordantasdev", "id": "1726101866", "created_at": "2013-09-03T17:06:35.000Z", "name": "VictorDantas.dev 🧑🏽‍💻"}, {"username": "DouglasMofet", "id": "47963791", "created_at": "2009-06-17T13:44:32.000Z", "name": "𝔐𝔬𝔣𝔢𝔱"}]}, "meta": {"newest_id": "1486135560720814082", "oldest_id": "1486083832977797127", "result_count": 10, "next_token": "b26v89c19zqg8o3fpe47mvpzra0j43ggkp0mep67su73x"}}
-{"data": [{"public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 1, "quote_count": 0}, "in_reply_to_user_id": "1566580880", "id": "1486074619849289744", "created_at": "2022-01-25T20:32:53.000Z", "text": "@AluraOnline amo ocêis :) https://t.co/o7nLiTQ1SO", "conversation_id": "1486074619849289744", "author_id": "1352053398477139968"}, {"public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 1, "quote_count": 0}, "id": "1486072145608421378", "created_at": "2022-01-25T20:23:04.000Z", "text": "Me inscrevi na #imersaoreact da @AluraOnline e não recebi o email de confirmação.. Me ajuda @AluraOnline também quero fazer https://t.co/WNoZHteNKo", "conversation_id": "1486072145608421378", "author_id": "24722171"}, {"public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 0, "quote_count": 0}, "in_reply_to_user_id": "78133575", "id": "1486069760823545859", "created_at": "2022-01-25T20:13:35.000Z", "text": "@soueu_marlon @omariosouto @AluraOnline consegui https://t.co/GsPg1HA5vK", "conversation_id": "1486045528811094020", "author_id": "1480258475515072516"}, {"public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 0, "quote_count": 0}, "id": "1486069575355613186", "created_at": "2022-01-25T20:12:51.000Z", "text": "A firma liberou o acesso a @AluraOnline 🥳.\nVou maratonar!", "conversation_id": "1486069575355613186", "author_id": "1360764963174907907"}, {"public_metrics": {"retweet_count": 2, "reply_count": 0, "like_count": 0, "quote_count": 0}, "id": "1486069144026030087", "created_at": "2022-01-25T20:11:08.000Z", "text": "RT @soueu_marlon: Essa #imersaoreact da @AluraOnline além de muito divertida tem uma didática muito bacana.\nParabéns @omariosouto por todo…", "conversation_id": "1486069144026030087", "author_id": "2206041386"}, {"public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 1, "quote_count": 0}, "in_reply_to_user_id": "105115892", "id": "1486053221764411399", "created_at": "2022-01-25T19:07:52.000Z", "text": "@LucasTeles42 @AluraOnline Nem eu lembro kkk mas que eh dureza deve ser", "conversation_id": "1485995050735751178", "author_id": "23954891"}, {"public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 1, "quote_count": 0}, "in_reply_to_user_id": "1011415940955811841", "id": "1486052628706508804", "created_at": "2022-01-25T19:05:30.000Z", "text": "Estou tentando fazer um tipo de validação. Se o usuário existe, exibir a foto dele. Se ele não existe, exibo a Jujubomba. Aceito sugestões!\nFicou atrasada a troca das fotos, e acho que este fetch não seria a melhor solução...\n@AluraOnline @omariosouto @paulo_caelum", "conversation_id": "1486052332819427333", "author_id": "1011415940955811841"}, {"public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 2, "quote_count": 0}, "id": "1486052332819427333", "created_at": "2022-01-25T19:04:20.000Z", "text": "Dia 02 da Imersão React da @AluraOnline !\nParece que já atingi meu limite de requisições da API do Github KKKK\n\nGithub:https://t.co/9MDiCQWJzi\nVercel: https://t.co/bsxoGoaTX2\n+", "conversation_id": "1486052332819427333", "author_id": "1011415940955811841"}, {"public_metrics": {"retweet_count": 2, "reply_count": 0, "like_count": 0, "quote_count": 0}, "id": "1486047862517547014", "created_at": "2022-01-25T18:46:34.000Z", "text": "RT @soueu_marlon: Essa #imersaoreact da @AluraOnline além de muito divertida tem uma didática muito bacana.\nParabéns @omariosouto por todo…", "conversation_id": "1486047862517547014", "author_id": "1566580880"}, {"public_metrics": {"retweet_count": 2, "reply_count": 3, "like_count": 21, "quote_count": 0}, "id": "1486045528811094020", "created_at": "2022-01-25T18:37:18.000Z", "text": "Essa #imersaoreact da @AluraOnline além de muito divertida tem uma didática muito bacana.\nParabéns @omariosouto por todo o conteúdo.\n\nEstou ansioso pela aula de amanhã para ver o chat em funcionamento. Até então meu projeto está assim:\n\nhttps://t.co/Y7hfdLnfbV", "conversation_id": "1486045528811094020", "author_id": "78133575"}], "includes": {"users": [{"username": "RIKRDU__", "id": "1352053398477139968", "name": "Ricardo.T.Santos", "created_at": "2021-01-21T00:40:37.000Z"}, {"username": "Robertract", "id": "24722171", "name": "Robert Frederico 👨🏻‍💻", "created_at": "2009-03-16T16:43:14.000Z"}, {"username": "cpt_westphalen", "id": "1480258475515072516", "name": "Cpt. Rodrigo", "created_at": "2022-01-09T19:22:09.000Z"}, {"username": "melk_de_sousa", "id": "1360764963174907907", "name": "Melk de Sousa", "created_at": "2021-02-14T01:37:35.000Z"}, {"username": "omariosouto", "id": "2206041386", "name": "Mario Souto - Dev Soutinho", "created_at": "2013-11-21T01:44:21.000Z"}, {"username": "guilhermecaelum", "id": "23954891", "name": "Guilherme Silveira", "created_at": "2009-03-12T14:19:08.000Z"}, {"username": "Lizvidotti", "id": "1011415940955811841", "name": "Liz Vidotti", "created_at": "2018-06-26T01:08:46.000Z"}, {"username": "AluraOnline", "id": "1566580880", "name": "Alura", "created_at": "2013-07-03T20:02:23.000Z"}, {"username": "soueu_marlon", "id": "78133575", "name": "Marlon Menezes", "created_at": "2009-09-28T21:57:23.000Z"}]}, "meta": {"newest_id": "1486074619849289744", "oldest_id": "1486045528811094020", "result_count": 10, "next_token": "b26v89c19zqg8o3fpe47mvosol4axuho4funj9s6lqvst"}}
-{"data": [{"author_id": "350637484", "public_metrics": {"retweet_count": 2, "reply_count": 0, "like_count": 0, "quote_count": 0}, "conversation_id": "1486039741711765509", "text": "RT @naruhodopodcast: Decidindo sobre a carreira? Planejando uma mudança? A @aluraonline é a maior escola online de tecnologia do Brasil, qu…", "created_at": "2022-01-25T18:14:18.000Z", "id": "1486039741711765509"}, {"author_id": "3093404216", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 0, "quote_count": 0}, "conversation_id": "1486022568108773388", "text": "Mais uma aula da #ImersaoReact 4 da @AluraOnline  finalizada, agora foi a aula 2 junto com os desafios!\n\nQuem quiser da uma olhada em como esta ficando:\n\nGitHub: https://t.co/e6DbyoIs2I \nPublicado: https://t.co/gLNQYe5Gfh\n\n#Aluracord #reactjs #nextjs #developer \n\n@omariosouto https://t.co/PawvBMibtk", "created_at": "2022-01-25T17:06:03.000Z", "id": "1486022568108773388"}, {"author_id": "2846231483", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 1, "quote_count": 0}, "conversation_id": "1485831420807372800", "text": "@andersondasilvx @AluraOnline obrigada, meu anjo", "in_reply_to_user_id": "301100032", "created_at": "2022-01-25T16:17:29.000Z", "id": "1486010346041139201"}, {"author_id": "3065791018", "public_metrics": {"retweet_count": 2, "reply_count": 0, "like_count": 0, "quote_count": 0}, "conversation_id": "1485996132576772107", "text": "RT @LuStrica: O bom de fazer os desafios da @AluraOnline é que você SEMPRE aprende algo novo, nunca que eu tinha usado um style jsx e agora…", "created_at": "2022-01-25T15:21:01.000Z", "id": "1485996132576772107"}, {"author_id": "3065791018", "public_metrics": {"retweet_count": 2, "reply_count": 0, "like_count": 0, "quote_count": 0}, "conversation_id": "1485996076503080961", "text": "RT @LaraUchiha_: Resolvi postar aqui pq eu gostei e foi com meu anime favorito.\nDa #ImersaoReact com @AluraOnline https://t.co/SmvjaJkMwe", "created_at": "2022-01-25T15:20:47.000Z", "id": "1485996076503080961"}, {"author_id": "105115892", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 10, "quote_count": 0}, "conversation_id": "1485995050735751178", "text": "Melhor parte do curso de property based test em #Clojure na @AluraOnline é rant do @guilhermecaelum  com tratamento de exceptions 😂😂😂 https://t.co/0RIoG9sFhu", "created_at": "2022-01-25T15:16:43.000Z", "id": "1485995050735751178"}, {"author_id": "301100032", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 1, "quote_count": 0}, "conversation_id": "1485831420807372800", "text": "@danverscxp @AluraOnline impecável bb, parabéns", "in_reply_to_user_id": "2846231483", "created_at": "2022-01-25T15:05:44.000Z", "id": "1485992289654738954"}, {"author_id": "1305264929839120384", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 0, "quote_count": 0}, "conversation_id": "1485977374667812866", "text": "@AluraOnline Esse foi chato. Adoro vocês, mas esse foi duro de ouvir ate o final.", "in_reply_to_user_id": "1566580880", "created_at": "2022-01-25T14:48:12.000Z", "id": "1485987876475183110"}, {"author_id": "48395017", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 2, "quote_count": 0}, "conversation_id": "1485979608604463113", "text": "Animal! Obrigado pelo papo! https://t.co/EyZb1vn7oA", "created_at": "2022-01-25T14:15:21.000Z", "id": "1485979608604463113"}], "includes": {"users": [{"name": "Nuno Camus", "id": "350637484", "created_at": "2011-08-08T02:45:32.000Z", "username": "NunoCamus"}, {"name": "Lário Diniz", "id": "3093404216", "created_at": "2015-03-17T11:29:43.000Z", "username": "lariodiniz"}, {"name": "rayanne moraes", "id": "2846231483", "created_at": "2014-10-27T04:02:39.000Z", "username": "danverscxp"}, {"name": "Narciso \"Sups\" F.", "id": "3065791018", "created_at": "2015-03-01T17:58:05.000Z", "username": "TheSupereor"}, {"name": "Lucas Teles: Dev❮T❯", "id": "105115892", "created_at": "2010-01-15T11:58:02.000Z", "username": "LucasTeles42"}, {"name": "anderson 🥝", "id": "301100032", "created_at": "2011-05-18T21:46:14.000Z", "username": "andersondasilvx"}, {"name": "Alex Sova", "id": "1305264929839120384", "created_at": "2020-09-13T21:59:55.000Z", "username": "lxlx191"}, {"name": "Rafael Zago 💉💉", "id": "48395017", "created_at": "2009-06-18T16:04:49.000Z", "username": "rafaelvzago"}]}, "meta": {"newest_id": "1486039741711765509", "oldest_id": "1485979608604463113", "result_count": 9, "next_token": "b26v89c19zqg8o3fpe4789aamvlf8nt0kpr4gixhb15z1"}}
-{"data": [{"text": "Linkbuilding, repetição de palavras e conteúdo ainda são relevantes para um bom posicionamento? 🤔\n\nNo https://t.co/ouNHpg5vRV desta semana conversamos sobre como é feito um SEO Moderno e como isso funciona em áudio e vídeo 📊\n\nVem mergulhar com a gente? 👇🧵 https://t.co/BJqFl3jykh", "conversation_id": "1485977374667812866", "public_metrics": {"retweet_count": 0, "reply_count": 2, "like_count": 10, "quote_count": 0}, "author_id": "1566580880", "id": "1485977374667812866", "created_at": "2022-01-25T14:06:28.000Z"}, {"text": "RT @LaraUchiha_: Resolvi postar aqui pq eu gostei e foi com meu anime favorito.\nDa #ImersaoReact com @AluraOnline https://t.co/SmvjaJkMwe", "conversation_id": "1485968303491268615", "public_metrics": {"retweet_count": 2, "reply_count": 0, "like_count": 0, "quote_count": 0}, "author_id": "1566580880", "id": "1485968303491268615", "created_at": "2022-01-25T13:30:26.000Z"}, {"text": "RT @LuStrica: O bom de fazer os desafios da @AluraOnline é que você SEMPRE aprende algo novo, nunca que eu tinha usado um style jsx e agora…", "conversation_id": "1485967757736882179", "public_metrics": {"retweet_count": 2, "reply_count": 0, "like_count": 0, "quote_count": 0}, "author_id": "1566580880", "id": "1485967757736882179", "created_at": "2022-01-25T13:28:16.000Z"}, {"text": "Resolvi postar aqui pq eu gostei e foi com meu anime favorito.\nDa #ImersaoReact com @AluraOnline https://t.co/SmvjaJkMwe", "conversation_id": "1485967629739302913", "public_metrics": {"retweet_count": 2, "reply_count": 0, "like_count": 9, "quote_count": 0}, "author_id": "787495566917898241", "id": "1485967629739302913", "created_at": "2022-01-25T13:27:45.000Z"}, {"text": "O bom de fazer os desafios da @AluraOnline é que você SEMPRE aprende algo novo, nunca que eu tinha usado um style jsx e agora achei bem prático pra projetos curtos.\n\nQue venha o segundo dia de Imersão React https://t.co/B3sBwk6Jl5", "conversation_id": "1485966875041349636", "public_metrics": {"retweet_count": 2, "reply_count": 5, "like_count": 30, "quote_count": 0}, "author_id": "260346820", "id": "1485966875041349636", "created_at": "2022-01-25T13:24:45.000Z"}, {"text": "@AluraOnline @marcobrunodev Bom dia, pessoal! Fiz a inscrição pelo hotsite mas não recebi confirmação no meu e-mail. Como faço pra acessar as aulas?", "conversation_id": "1485720246866558984", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 2, "quote_count": 0}, "author_id": "994275341454774274", "id": "1485964923721105408", "in_reply_to_user_id": "1566580880", "created_at": "2022-01-25T13:17:00.000Z"}, {"text": "@mayarquino Começou ontem a imersão em React da @AluraOnline !\nVou começar a fazer hoje, ontem não consegui.\nÉ um bom começo :)", "conversation_id": "1485851993356873733", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 3, "quote_count": 0}, "author_id": "15808817", "id": "1485964008544948224", "in_reply_to_user_id": "1004859099979411457", "created_at": "2022-01-25T13:13:22.000Z"}, {"text": "RT @juniormartinxo: A Imersão @AluraOnline  é sempre muito divertida, é a oportunidade de refrescar alguns conceitos e aprender uns paranau…", "conversation_id": "1485961997606957058", "public_metrics": {"retweet_count": 2, "reply_count": 0, "like_count": 0, "quote_count": 0}, "author_id": "14263050", "id": "1485961997606957058", "created_at": "2022-01-25T13:05:22.000Z"}, {"text": "@apatinharod @AluraOnline Recebi sim. Você entrou em contato com o pessoal do suporte?", "conversation_id": "1484282635811700741", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 0, "quote_count": 0}, "author_id": "1228286942707691525", "id": "1485955454215897091", "in_reply_to_user_id": "1445140257083691023", "created_at": "2022-01-25T12:39:22.000Z"}], "includes": {"users": [{"created_at": "2013-07-03T20:02:23.000Z", "id": "1566580880", "name": "Alura", "username": "AluraOnline"}, {"created_at": "2016-10-16T03:29:09.000Z", "id": "787495566917898241", "name": "Clara | 📖 : Orgulho e Preconceito", "username": "LaraUchiha_"}, {"created_at": "2011-03-03T18:13:09.000Z", "id": "260346820", "name": "Aloy", "username": "LuStrica"}, {"created_at": "2018-05-09T17:58:08.000Z", "id": "994275341454774274", "name": "Flávio Latorre", "username": "fh_latorre"}, {"created_at": "2008-08-11T14:46:13.000Z", "id": "15808817", "name": "Aline Bastos", "username": "AlineBastos"}, {"created_at": "2008-03-31T02:59:54.000Z", "id": "14263050", "name": "Paulo Silveira", "username": "paulo_caelum"}, {"created_at": "2020-02-14T11:56:50.000Z", "id": "1228286942707691525", "name": "🌺 carol", "username": "bioconstrutora"}]}, "meta": {"newest_id": "1485977374667812866", "oldest_id": "1485955454215897091", "result_count": 9, "next_token": "b26v89c19zqg8o3fpe47899ovxxkmjc7k5348oqwg714t"}}
-{"data": [{"in_reply_to_user_id": "1228286942707691525", "public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 0, "quote_count": 0}, "created_at": "2022-01-25T12:33:00.000Z", "text": "@bioconstrutora @AluraOnline Você recebeu seu acesso? Também consegui o curso mas até agora nada", "id": "1485953851484262410", "author_id": "1445140257083691023", "conversation_id": "1484282635811700741"}, {"in_reply_to_user_id": "2793323465", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 1, "quote_count": 0}, "created_at": "2022-01-25T11:21:35.000Z", "text": "@Luciane_lf @AluraOnline @omariosouto Está sendo bem legal né?", "id": "1485935878040084485", "author_id": "1035093640232820738", "conversation_id": "1485726602772295685"}, {"in_reply_to_user_id": "1566580880", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 1, "quote_count": 0}, "created_at": "2022-01-25T11:12:45.000Z", "text": "@AluraOnline @omariosouto @paulo_caelum https://t.co/2EoYOw6D2U", "id": "1485933657084899332", "author_id": "1011415940955811841", "conversation_id": "1485697505862029318"}, {"public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 0, "quote_count": 0}, "created_at": "2022-01-25T11:08:21.000Z", "text": "#NowPlaying #PodCast @AluraOnline #HipstersPontoTech - SEO moderno  https://t.co/tKqvCSto6W", "id": "1485932547557187592", "author_id": "31534627", "conversation_id": "1485932547557187592"}, {"public_metrics": {"retweet_count": 0, "reply_count": 1, "like_count": 3, "quote_count": 0}, "created_at": "2022-01-25T10:17:28.000Z", "text": "1° dia da Imersão React finalizado com sucesso ❤️🦇 #TheBatman\n\n#ImersaoReact @AluraOnline @omariosouto https://t.co/9nBv3AOyKi", "id": "1485919742070333443", "author_id": "1183428562193440770", "conversation_id": "1485919742070333443"}], "includes": {"users": [{"id": "1445140257083691023", "name": "Patricia Rodrigues", "username": "apatinharod", "created_at": "2021-10-04T21:34:42.000Z"}, {"id": "1035093640232820738", "name": "Leticia 'levxyca' 💫 (ela/dela)", "username": "levxyca", "created_at": "2018-08-30T09:15:29.000Z"}, {"id": "1011415940955811841", "name": "Liz Vidotti", "username": "Lizvidotti", "created_at": "2018-06-26T01:08:46.000Z"}, {"id": "31534627", "name": "José Soares", "username": "josedesoares", "created_at": "2009-04-15T21:57:05.000Z"}, {"id": "1183428562193440770", "name": "‎ً", "username": "celycristhyne", "created_at": "2019-10-13T17:05:52.000Z"}]}, "meta": {"newest_id": "1485953851484262410", "oldest_id": "1485919742070333443", "result_count": 5}}
+{
+  "data": [
+    {
+      "text": "@AluraOnline ei Alura, me dá uma bolsa vai, pfv",
+      "conversation_id": "1485977374667812866",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "170777351",
+      "id": "1486207037969244166",
+      "in_reply_to_user_id": "1566580880",
+      "created_at": "2022-01-26T05:19:04.000Z"
+    },
+    {
+      "text": "@bioconstrutora @AluraOnline Tentei a semana passada inteira, mas agora criaram o grupo no wpp, acredito que vai resolver, já teve muita coisa?",
+      "conversation_id": "1484282635811700741",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "1445140257083691023",
+      "id": "1486185134709690368",
+      "in_reply_to_user_id": "1228286942707691525",
+      "created_at": "2022-01-26T03:52:02.000Z"
+    },
+    {
+      "text": "8. Faço trabalhos voluntários desde 2015 em diversas causas, online e presenciais e acredito muito no valor que agrega\n\n9. Amo estudar, além das pós ainda sou assinante da @AluraOnline pra fazer vários cursos e sempre vou pra eventos da minha área (+)",
+      "conversation_id": "1486173223502987269",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "author_id": "1358214206257037313",
+      "id": "1486173230079614976",
+      "in_reply_to_user_id": "1358214206257037313",
+      "created_at": "2022-01-26T03:04:44.000Z"
+    },
+    {
+      "text": "@pachicodes @AluraOnline Pois continue fazendo o desafio!!! Aposto que você vai se surpreender com a praticidade",
+      "conversation_id": "1485966875041349636",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "260346820",
+      "id": "1486165234146553856",
+      "in_reply_to_user_id": "1088416218556579841",
+      "created_at": "2022-01-26T02:32:58.000Z"
+    },
+    {
+      "text": "@LuStrica @AluraOnline Eu nunca mexi de verdade com o React, então não tive esse problema lol",
+      "conversation_id": "1485966875041349636",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "1088416218556579841",
+      "id": "1486164447181877257",
+      "in_reply_to_user_id": "260346820",
+      "created_at": "2022-01-26T02:29:50.000Z"
+    },
+    {
+      "text": "@pachicodes @AluraOnline iti, adorei o seu todo temático 💕 foi divertido de fazer, adoro os desafios da Alura\n\nA parte difícil foi segurar a vontade de usar o styled components kkk",
+      "conversation_id": "1485966875041349636",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "260346820",
+      "id": "1486162598622121987",
+      "in_reply_to_user_id": "1088416218556579841",
+      "created_at": "2022-01-26T02:22:29.000Z"
+    },
+    {
+      "text": "@LuStrica @AluraOnline Iti que fofinho tá o seu!!!! As corem me lembram um dos meus temas favoritas do VScode",
+      "conversation_id": "1485966875041349636",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "1088416218556579841",
+      "id": "1486161563241574400",
+      "in_reply_to_user_id": "260346820",
+      "created_at": "2022-01-26T02:18:22.000Z"
+    },
+    {
+      "text": "Finalizando o dia com a #imersaoreact da @AluraOnline  e a realização dos desafios do @omariosouto  e @paulo_caelum https://t.co/CK6PYeWUPJ",
+      "conversation_id": "1486161177491169284",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "author_id": "590368874",
+      "id": "1486161177491169284",
+      "created_at": "2022-01-26T02:16:50.000Z"
+    },
+    {
+      "text": "@feminis_tech @AluraOnline Vou tentar deixar mais Feministecado lol",
+      "conversation_id": "1486129540145598464",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "1088416218556579841",
+      "id": "1486160427054682112",
+      "in_reply_to_user_id": "1286695925843468296",
+      "created_at": "2022-01-26T02:13:51.000Z"
+    },
+    {
+      "text": "RT @pachicodes: Estou atrasadinha na Imersão #React da @AluraOnline  lol\nMas fiz aqui o Aluracord com a paleta da @feminis_tech \nAgora fora…",
+      "conversation_id": "1486156946566782980",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "1286695925843468296",
+      "id": "1486156946566782980",
+      "created_at": "2022-01-26T02:00:02.000Z"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2010-07-25T18:57:43.000Z",
+        "id": "170777351",
+        "name": "cansadita",
+        "username": "warsemmidia"
+      },
+      {
+        "created_at": "2021-10-04T21:34:42.000Z",
+        "id": "1445140257083691023",
+        "name": "Patricia Rodrigues",
+        "username": "apatinharod"
+      },
+      {
+        "created_at": "2021-02-07T00:41:22.000Z",
+        "id": "1358214206257037313",
+        "name": "Somer 🪐 #DicaSomerspace",
+        "username": "somerspace"
+      },
+      {
+        "created_at": "2011-03-03T18:13:09.000Z",
+        "id": "260346820",
+        "name": "Aloy",
+        "username": "LuStrica"
+      },
+      {
+        "created_at": "2019-01-24T12:40:23.000Z",
+        "id": "1088416218556579841",
+        "name": "⭐ Pachi Parra Codes✨ ex-gringa",
+        "username": "pachicodes"
+      },
+      {
+        "created_at": "2012-05-25T22:27:04.000Z",
+        "id": "590368874",
+        "name": "Rafavini",
+        "username": "R4faelVinicius"
+      },
+      {
+        "created_at": "2020-07-24T16:13:41.000Z",
+        "id": "1286695925843468296",
+        "name": "Feministech",
+        "username": "feminis_tech"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1486207037969244166",
+    "oldest_id": "1486156946566782980",
+    "result_count": 10,
+    "next_token": "b26v89c19zqg8o3fpe47mxttnvxl7hjlamdenappqjbst"
+  }
+}
+{
+  "data": [
+    {
+      "conversation_id": "1486129540145598464",
+      "author_id": "1286695925843468296",
+      "text": "@pachicodes @AluraOnline Que lindo! 🤍🤍🤍",
+      "created_at": "2022-01-26T01:59:45.000Z",
+      "id": "1486156874877652992",
+      "in_reply_to_user_id": "1088416218556579841",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "conversation_id": "1486153492494434311",
+      "author_id": "1048298121866989571",
+      "text": "RT @levxyca: 2º dia da Imersão React da @AluraOnline finalizado com sucesso 💫\n\nPersonalização da página principal, uma segunda página(que a…",
+      "created_at": "2022-01-26T01:46:18.000Z",
+      "id": "1486153492494434311",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "conversation_id": "1486153317566894082",
+      "author_id": "1048298121866989571",
+      "text": "RT @pachicodes: Estou atrasadinha na Imersão #React da @AluraOnline  lol\nMas fiz aqui o Aluracord com a paleta da @feminis_tech \nAgora fora…",
+      "created_at": "2022-01-26T01:45:36.000Z",
+      "id": "1486153317566894082",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "conversation_id": "1486134095281336329",
+      "author_id": "1088416218556579841",
+      "text": "@levxyca @AluraOnline Tá bem lindão!",
+      "created_at": "2022-01-26T01:45:14.000Z",
+      "id": "1486153221315997707",
+      "in_reply_to_user_id": "1035093640232820738",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "conversation_id": "1486076804980957197",
+      "author_id": "1477429212940275716",
+      "text": "@AluraOnline Deploy de sexta-feira não deveria nem ter entrado na casa kkkkkkkkk",
+      "created_at": "2022-01-26T01:34:28.000Z",
+      "id": "1486150512273723393",
+      "in_reply_to_user_id": "1566580880",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "conversation_id": "1485674604152729616",
+      "author_id": "2924875982",
+      "text": "@FroidPat @AluraOnline @omariosouto @paulo_caelum Como você colocou o background com gif? to tentando a um tempo já e não consigo",
+      "created_at": "2022-01-26T01:28:18.000Z",
+      "id": "1486148963669622789",
+      "in_reply_to_user_id": "1028104898120966144",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "conversation_id": "1486143301141114880",
+      "author_id": "1486041389536272391",
+      "text": "Desafio do 2º dia (exterminate) completado com sucesso!\n@AluraOnline \n#imersaoreact https://t.co/FnNfchFNo0",
+      "created_at": "2022-01-26T01:05:48.000Z",
+      "id": "1486143301141114880",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "conversation_id": "1486129540145598464",
+      "author_id": "1483601235617980419",
+      "text": "@pachicodes @AluraOnline @feminis_tech Q linda 🌹",
+      "created_at": "2022-01-26T00:59:04.000Z",
+      "id": "1486141603400069122",
+      "in_reply_to_user_id": "1088416218556579841",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "conversation_id": "1486129540145598464",
+      "author_id": "1035093640232820738",
+      "text": "@pachicodes @AluraOnline @feminis_tech ficou lindooooo 🥺💙⭐",
+      "created_at": "2022-01-26T00:47:47.000Z",
+      "id": "1486138766846836741",
+      "in_reply_to_user_id": "1088416218556579841",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "conversation_id": "1486134095281336329",
+      "author_id": "1035093640232820738",
+      "text": "@cloupper_ @AluraOnline ahhhhhh obrigada!! posta sim que eu quero ver também 😊",
+      "created_at": "2022-01-26T00:37:33.000Z",
+      "id": "1486136191506337792",
+      "in_reply_to_user_id": "1413597574033035266",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      }
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "name": "Feministech",
+        "created_at": "2020-07-24T16:13:41.000Z",
+        "id": "1286695925843468296",
+        "username": "feminis_tech"
+      },
+      {
+        "name": "Lissa Ferreira",
+        "created_at": "2018-10-05T19:45:23.000Z",
+        "id": "1048298121866989571",
+        "username": "lissadev_"
+      },
+      {
+        "name": "⭐ Pachi Parra Codes✨ ex-gringa",
+        "created_at": "2019-01-24T12:40:23.000Z",
+        "id": "1088416218556579841",
+        "username": "pachicodes"
+      },
+      {
+        "name": "Anne",
+        "created_at": "2022-01-01T23:59:23.000Z",
+        "id": "1477429212940275716",
+        "username": "ennaiadaianne_"
+      },
+      {
+        "name": "LiiPeee || Dev orientado cachaça",
+        "created_at": "2014-12-10T00:31:42.000Z",
+        "id": "2924875982",
+        "username": "TopLiPee"
+      },
+      {
+        "name": "Jéssica Motta",
+        "created_at": "2022-01-25T18:21:21.000Z",
+        "id": "1486041389536272391",
+        "username": "JessMotta17"
+      },
+      {
+        "name": "Debs",
+        "created_at": "2022-01-19T00:44:57.000Z",
+        "id": "1483601235617980419",
+        "username": "samadhi7k"
+      },
+      {
+        "name": "Leticia 'levxyca' 💫 (ela/dela)",
+        "created_at": "2018-08-30T09:15:29.000Z",
+        "id": "1035093640232820738",
+        "username": "levxyca"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1486156874877652992",
+    "oldest_id": "1486136191506337792",
+    "result_count": 10,
+    "next_token": "b26v89c19zqg8o3fpe47mxt82zharpkjvvr4oshj6jxj1"
+  }
+}
+{
+  "data": [
+    {
+      "id": "1486135560720814082",
+      "text": "@levxyca @AluraOnline aaaa ta ficando incrivel levy!!!\n\neu tbm to fazendo, mas comecei hoje dlksjkd em breve posto o meu tbm",
+      "author_id": "1413597574033035266",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2022-01-26T00:35:03.000Z",
+      "in_reply_to_user_id": "1035093640232820738",
+      "conversation_id": "1486134095281336329"
+    },
+    {
+      "id": "1486134434696994819",
+      "text": "@AluraOnline participação especial da @pachicodes 😂",
+      "author_id": "1035093640232820738",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2022-01-26T00:30:34.000Z",
+      "in_reply_to_user_id": "1035093640232820738",
+      "conversation_id": "1486134095281336329"
+    },
+    {
+      "id": "1486134095281336329",
+      "text": "2º dia da Imersão React da @AluraOnline finalizado com sucesso 💫\n\nPersonalização da página principal, uma segunda página(que ainda será desenvolvida) e o desafio de fazer uma validação para mudar a foto apenas se tiver mais de 2 caracteres.\n\nLink: https://t.co/82ClZ99ZiO https://t.co/RnRBw9b1YK",
+      "author_id": "1035093640232820738",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 36,
+        "quote_count": 0
+      },
+      "created_at": "2022-01-26T00:29:14.000Z",
+      "conversation_id": "1486134095281336329"
+    },
+    {
+      "id": "1486131461568987136",
+      "text": "RT @pachicodes: Estou atrasadinha na Imersão #React da @AluraOnline  lol\nMas fiz aqui o Aluracord com a paleta da @feminis_tech \nAgora fora…",
+      "author_id": "1311904892076781568",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2022-01-26T00:18:46.000Z",
+      "conversation_id": "1486131461568987136"
+    },
+    {
+      "id": "1486129540145598464",
+      "text": "Estou atrasadinha na Imersão #React da @AluraOnline  lol\nMas fiz aqui o Aluracord com a paleta da @feminis_tech \nAgora fora fzer o dia dois e tentar não ser sempre atrasada lol https://t.co/t7cGdjMfIA",
+      "author_id": "1088416218556579841",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 5,
+        "like_count": 37,
+        "quote_count": 0
+      },
+      "created_at": "2022-01-26T00:11:07.000Z",
+      "conversation_id": "1486129540145598464"
+    },
+    {
+      "id": "1486126069363130374",
+      "text": "Tô participando do challenge @AluraOnline + Oracle. Passei 3h pra fazer dois botões ficarem lado a lado e não sei até agora como funcionou.",
+      "author_id": "1384283873257746432",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2022-01-25T23:57:20.000Z",
+      "conversation_id": "1486126069363130374"
+    },
+    {
+      "id": "1486111122025590786",
+      "text": "Postando hoje dnv sobre a #ImersaoReact da @AluraOnline,  fiz os desafios da página 404, a API do GitHub eu estou usando pra pegar o nome e exibir abaixo do username e a foto padrão do Jotaro para caso digite um nome com menos de 2 caracteres. https://t.co/dawXfVqe2p",
+      "author_id": "787495566917898241",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2022-01-25T22:57:56.000Z",
+      "conversation_id": "1486111122025590786"
+    },
+    {
+      "id": "1486089377612763138",
+      "text": "A ideia não foi das melhores, mas eu particularmente gostei kkkkkk\n\nO dia 2 foi incrível, ansioso para os próximos desafios!\n\n@alura @omariosouto @paulo_caelum @AluraOnline #react #imersaoreact #alura https://t.co/OpWqXiUXZ2",
+      "author_id": "1486087529480835086",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2022-01-25T21:31:32.000Z",
+      "conversation_id": "1486089377612763138"
+    },
+    {
+      "id": "1486089265624883205",
+      "text": "@Carol_andrades1 @AluraOnline @omariosouto @paulo_caelum Tá muito bom, parabéns Carol 👏👏",
+      "author_id": "1726101866",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "created_at": "2022-01-25T21:31:05.000Z",
+      "in_reply_to_user_id": "1253720856758562817",
+      "conversation_id": "1486086494863437838"
+    },
+    {
+      "id": "1486083832977797127",
+      "text": "essa aqui foi difícil https://t.co/a3rZ9nvmDK",
+      "author_id": "47963791",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2022-01-25T21:09:30.000Z",
+      "conversation_id": "1486083832977797127"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "username": "cloupper_",
+        "id": "1413597574033035266",
+        "created_at": "2021-07-09T20:35:48.000Z",
+        "name": "clope "
+      },
+      {
+        "username": "levxyca",
+        "id": "1035093640232820738",
+        "created_at": "2018-08-30T09:15:29.000Z",
+        "name": "Leticia 'levxyca' 💫 (ela/dela)"
+      },
+      {
+        "username": "coder_487",
+        "id": "1311904892076781568",
+        "created_at": "2020-10-02T05:44:47.000Z",
+        "name": "Tech-Bot"
+      },
+      {
+        "username": "pachicodes",
+        "id": "1088416218556579841",
+        "created_at": "2019-01-24T12:40:23.000Z",
+        "name": "⭐ Pachi Parra Codes✨ ex-gringa"
+      },
+      {
+        "username": "akrolrodrigues",
+        "id": "1384283873257746432",
+        "created_at": "2021-04-19T23:13:09.000Z",
+        "name": "Carol Rodrigues"
+      },
+      {
+        "username": "LaraUchiha_",
+        "id": "787495566917898241",
+        "created_at": "2016-10-16T03:29:09.000Z",
+        "name": "Clara | 📖 : Orgulho e Preconceito"
+      },
+      {
+        "username": "whoiscaio1",
+        "id": "1486087529480835086",
+        "created_at": "2022-01-25T21:24:43.000Z",
+        "name": "whoiscaio"
+      },
+      {
+        "username": "victordantasdev",
+        "id": "1726101866",
+        "created_at": "2013-09-03T17:06:35.000Z",
+        "name": "VictorDantas.dev 🧑🏽‍💻"
+      },
+      {
+        "username": "DouglasMofet",
+        "id": "47963791",
+        "created_at": "2009-06-17T13:44:32.000Z",
+        "name": "𝔐𝔬𝔣𝔢𝔱"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1486135560720814082",
+    "oldest_id": "1486083832977797127",
+    "result_count": 10,
+    "next_token": "b26v89c19zqg8o3fpe47mvpzra0j43ggkp0mep67su73x"
+  }
+}
+{
+  "data": [
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "in_reply_to_user_id": "1566580880",
+      "id": "1486074619849289744",
+      "created_at": "2022-01-25T20:32:53.000Z",
+      "text": "@AluraOnline amo ocêis :) https://t.co/o7nLiTQ1SO",
+      "conversation_id": "1486074619849289744",
+      "author_id": "1352053398477139968"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1486072145608421378",
+      "created_at": "2022-01-25T20:23:04.000Z",
+      "text": "Me inscrevi na #imersaoreact da @AluraOnline e não recebi o email de confirmação.. Me ajuda @AluraOnline também quero fazer https://t.co/WNoZHteNKo",
+      "conversation_id": "1486072145608421378",
+      "author_id": "24722171"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "in_reply_to_user_id": "78133575",
+      "id": "1486069760823545859",
+      "created_at": "2022-01-25T20:13:35.000Z",
+      "text": "@soueu_marlon @omariosouto @AluraOnline consegui https://t.co/GsPg1HA5vK",
+      "conversation_id": "1486045528811094020",
+      "author_id": "1480258475515072516"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1486069575355613186",
+      "created_at": "2022-01-25T20:12:51.000Z",
+      "text": "A firma liberou o acesso a @AluraOnline 🥳.\nVou maratonar!",
+      "conversation_id": "1486069575355613186",
+      "author_id": "1360764963174907907"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1486069144026030087",
+      "created_at": "2022-01-25T20:11:08.000Z",
+      "text": "RT @soueu_marlon: Essa #imersaoreact da @AluraOnline além de muito divertida tem uma didática muito bacana.\nParabéns @omariosouto por todo…",
+      "conversation_id": "1486069144026030087",
+      "author_id": "2206041386"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "in_reply_to_user_id": "105115892",
+      "id": "1486053221764411399",
+      "created_at": "2022-01-25T19:07:52.000Z",
+      "text": "@LucasTeles42 @AluraOnline Nem eu lembro kkk mas que eh dureza deve ser",
+      "conversation_id": "1485995050735751178",
+      "author_id": "23954891"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "in_reply_to_user_id": "1011415940955811841",
+      "id": "1486052628706508804",
+      "created_at": "2022-01-25T19:05:30.000Z",
+      "text": "Estou tentando fazer um tipo de validação. Se o usuário existe, exibir a foto dele. Se ele não existe, exibo a Jujubomba. Aceito sugestões!\nFicou atrasada a troca das fotos, e acho que este fetch não seria a melhor solução...\n@AluraOnline @omariosouto @paulo_caelum",
+      "conversation_id": "1486052332819427333",
+      "author_id": "1011415940955811841"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1486052332819427333",
+      "created_at": "2022-01-25T19:04:20.000Z",
+      "text": "Dia 02 da Imersão React da @AluraOnline !\nParece que já atingi meu limite de requisições da API do Github KKKK\n\nGithub:https://t.co/9MDiCQWJzi\nVercel: https://t.co/bsxoGoaTX2\n+",
+      "conversation_id": "1486052332819427333",
+      "author_id": "1011415940955811841"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1486047862517547014",
+      "created_at": "2022-01-25T18:46:34.000Z",
+      "text": "RT @soueu_marlon: Essa #imersaoreact da @AluraOnline além de muito divertida tem uma didática muito bacana.\nParabéns @omariosouto por todo…",
+      "conversation_id": "1486047862517547014",
+      "author_id": "1566580880"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 21,
+        "quote_count": 0
+      },
+      "id": "1486045528811094020",
+      "created_at": "2022-01-25T18:37:18.000Z",
+      "text": "Essa #imersaoreact da @AluraOnline além de muito divertida tem uma didática muito bacana.\nParabéns @omariosouto por todo o conteúdo.\n\nEstou ansioso pela aula de amanhã para ver o chat em funcionamento. Até então meu projeto está assim:\n\nhttps://t.co/Y7hfdLnfbV",
+      "conversation_id": "1486045528811094020",
+      "author_id": "78133575"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "username": "RIKRDU__",
+        "id": "1352053398477139968",
+        "name": "Ricardo.T.Santos",
+        "created_at": "2021-01-21T00:40:37.000Z"
+      },
+      {
+        "username": "Robertract",
+        "id": "24722171",
+        "name": "Robert Frederico 👨🏻‍💻",
+        "created_at": "2009-03-16T16:43:14.000Z"
+      },
+      {
+        "username": "cpt_westphalen",
+        "id": "1480258475515072516",
+        "name": "Cpt. Rodrigo",
+        "created_at": "2022-01-09T19:22:09.000Z"
+      },
+      {
+        "username": "melk_de_sousa",
+        "id": "1360764963174907907",
+        "name": "Melk de Sousa",
+        "created_at": "2021-02-14T01:37:35.000Z"
+      },
+      {
+        "username": "omariosouto",
+        "id": "2206041386",
+        "name": "Mario Souto - Dev Soutinho",
+        "created_at": "2013-11-21T01:44:21.000Z"
+      },
+      {
+        "username": "guilhermecaelum",
+        "id": "23954891",
+        "name": "Guilherme Silveira",
+        "created_at": "2009-03-12T14:19:08.000Z"
+      },
+      {
+        "username": "Lizvidotti",
+        "id": "1011415940955811841",
+        "name": "Liz Vidotti",
+        "created_at": "2018-06-26T01:08:46.000Z"
+      },
+      {
+        "username": "AluraOnline",
+        "id": "1566580880",
+        "name": "Alura",
+        "created_at": "2013-07-03T20:02:23.000Z"
+      },
+      {
+        "username": "soueu_marlon",
+        "id": "78133575",
+        "name": "Marlon Menezes",
+        "created_at": "2009-09-28T21:57:23.000Z"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1486074619849289744",
+    "oldest_id": "1486045528811094020",
+    "result_count": 10,
+    "next_token": "b26v89c19zqg8o3fpe47mvosol4axuho4funj9s6lqvst"
+  }
+}
+{
+  "data": [
+    {
+      "author_id": "350637484",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1486039741711765509",
+      "text": "RT @naruhodopodcast: Decidindo sobre a carreira? Planejando uma mudança? A @aluraonline é a maior escola online de tecnologia do Brasil, qu…",
+      "created_at": "2022-01-25T18:14:18.000Z",
+      "id": "1486039741711765509"
+    },
+    {
+      "author_id": "3093404216",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1486022568108773388",
+      "text": "Mais uma aula da #ImersaoReact 4 da @AluraOnline  finalizada, agora foi a aula 2 junto com os desafios!\n\nQuem quiser da uma olhada em como esta ficando:\n\nGitHub: https://t.co/e6DbyoIs2I \nPublicado: https://t.co/gLNQYe5Gfh\n\n#Aluracord #reactjs #nextjs #developer \n\n@omariosouto https://t.co/PawvBMibtk",
+      "created_at": "2022-01-25T17:06:03.000Z",
+      "id": "1486022568108773388"
+    },
+    {
+      "author_id": "2846231483",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "conversation_id": "1485831420807372800",
+      "text": "@andersondasilvx @AluraOnline obrigada, meu anjo",
+      "in_reply_to_user_id": "301100032",
+      "created_at": "2022-01-25T16:17:29.000Z",
+      "id": "1486010346041139201"
+    },
+    {
+      "author_id": "3065791018",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1485996132576772107",
+      "text": "RT @LuStrica: O bom de fazer os desafios da @AluraOnline é que você SEMPRE aprende algo novo, nunca que eu tinha usado um style jsx e agora…",
+      "created_at": "2022-01-25T15:21:01.000Z",
+      "id": "1485996132576772107"
+    },
+    {
+      "author_id": "3065791018",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1485996076503080961",
+      "text": "RT @LaraUchiha_: Resolvi postar aqui pq eu gostei e foi com meu anime favorito.\nDa #ImersaoReact com @AluraOnline https://t.co/SmvjaJkMwe",
+      "created_at": "2022-01-25T15:20:47.000Z",
+      "id": "1485996076503080961"
+    },
+    {
+      "author_id": "105115892",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 10,
+        "quote_count": 0
+      },
+      "conversation_id": "1485995050735751178",
+      "text": "Melhor parte do curso de property based test em #Clojure na @AluraOnline é rant do @guilhermecaelum  com tratamento de exceptions 😂😂😂 https://t.co/0RIoG9sFhu",
+      "created_at": "2022-01-25T15:16:43.000Z",
+      "id": "1485995050735751178"
+    },
+    {
+      "author_id": "301100032",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "conversation_id": "1485831420807372800",
+      "text": "@danverscxp @AluraOnline impecável bb, parabéns",
+      "in_reply_to_user_id": "2846231483",
+      "created_at": "2022-01-25T15:05:44.000Z",
+      "id": "1485992289654738954"
+    },
+    {
+      "author_id": "1305264929839120384",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1485977374667812866",
+      "text": "@AluraOnline Esse foi chato. Adoro vocês, mas esse foi duro de ouvir ate o final.",
+      "in_reply_to_user_id": "1566580880",
+      "created_at": "2022-01-25T14:48:12.000Z",
+      "id": "1485987876475183110"
+    },
+    {
+      "author_id": "48395017",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "conversation_id": "1485979608604463113",
+      "text": "Animal! Obrigado pelo papo! https://t.co/EyZb1vn7oA",
+      "created_at": "2022-01-25T14:15:21.000Z",
+      "id": "1485979608604463113"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "name": "Nuno Camus",
+        "id": "350637484",
+        "created_at": "2011-08-08T02:45:32.000Z",
+        "username": "NunoCamus"
+      },
+      {
+        "name": "Lário Diniz",
+        "id": "3093404216",
+        "created_at": "2015-03-17T11:29:43.000Z",
+        "username": "lariodiniz"
+      },
+      {
+        "name": "rayanne moraes",
+        "id": "2846231483",
+        "created_at": "2014-10-27T04:02:39.000Z",
+        "username": "danverscxp"
+      },
+      {
+        "name": "Narciso \"Sups\" F.",
+        "id": "3065791018",
+        "created_at": "2015-03-01T17:58:05.000Z",
+        "username": "TheSupereor"
+      },
+      {
+        "name": "Lucas Teles: Dev❮T❯",
+        "id": "105115892",
+        "created_at": "2010-01-15T11:58:02.000Z",
+        "username": "LucasTeles42"
+      },
+      {
+        "name": "anderson 🥝",
+        "id": "301100032",
+        "created_at": "2011-05-18T21:46:14.000Z",
+        "username": "andersondasilvx"
+      },
+      {
+        "name": "Alex Sova",
+        "id": "1305264929839120384",
+        "created_at": "2020-09-13T21:59:55.000Z",
+        "username": "lxlx191"
+      },
+      {
+        "name": "Rafael Zago 💉💉",
+        "id": "48395017",
+        "created_at": "2009-06-18T16:04:49.000Z",
+        "username": "rafaelvzago"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1486039741711765509",
+    "oldest_id": "1485979608604463113",
+    "result_count": 9,
+    "next_token": "b26v89c19zqg8o3fpe4789aamvlf8nt0kpr4gixhb15z1"
+  }
+}
+{
+  "data": [
+    {
+      "text": "Linkbuilding, repetição de palavras e conteúdo ainda são relevantes para um bom posicionamento? 🤔\n\nNo https://t.co/ouNHpg5vRV desta semana conversamos sobre como é feito um SEO Moderno e como isso funciona em áudio e vídeo 📊\n\nVem mergulhar com a gente? 👇🧵 https://t.co/BJqFl3jykh",
+      "conversation_id": "1485977374667812866",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 10,
+        "quote_count": 0
+      },
+      "author_id": "1566580880",
+      "id": "1485977374667812866",
+      "created_at": "2022-01-25T14:06:28.000Z"
+    },
+    {
+      "text": "RT @LaraUchiha_: Resolvi postar aqui pq eu gostei e foi com meu anime favorito.\nDa #ImersaoReact com @AluraOnline https://t.co/SmvjaJkMwe",
+      "conversation_id": "1485968303491268615",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "1566580880",
+      "id": "1485968303491268615",
+      "created_at": "2022-01-25T13:30:26.000Z"
+    },
+    {
+      "text": "RT @LuStrica: O bom de fazer os desafios da @AluraOnline é que você SEMPRE aprende algo novo, nunca que eu tinha usado um style jsx e agora…",
+      "conversation_id": "1485967757736882179",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "1566580880",
+      "id": "1485967757736882179",
+      "created_at": "2022-01-25T13:28:16.000Z"
+    },
+    {
+      "text": "Resolvi postar aqui pq eu gostei e foi com meu anime favorito.\nDa #ImersaoReact com @AluraOnline https://t.co/SmvjaJkMwe",
+      "conversation_id": "1485967629739302913",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 9,
+        "quote_count": 0
+      },
+      "author_id": "787495566917898241",
+      "id": "1485967629739302913",
+      "created_at": "2022-01-25T13:27:45.000Z"
+    },
+    {
+      "text": "O bom de fazer os desafios da @AluraOnline é que você SEMPRE aprende algo novo, nunca que eu tinha usado um style jsx e agora achei bem prático pra projetos curtos.\n\nQue venha o segundo dia de Imersão React https://t.co/B3sBwk6Jl5",
+      "conversation_id": "1485966875041349636",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 5,
+        "like_count": 30,
+        "quote_count": 0
+      },
+      "author_id": "260346820",
+      "id": "1485966875041349636",
+      "created_at": "2022-01-25T13:24:45.000Z"
+    },
+    {
+      "text": "@AluraOnline @marcobrunodev Bom dia, pessoal! Fiz a inscrição pelo hotsite mas não recebi confirmação no meu e-mail. Como faço pra acessar as aulas?",
+      "conversation_id": "1485720246866558984",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "author_id": "994275341454774274",
+      "id": "1485964923721105408",
+      "in_reply_to_user_id": "1566580880",
+      "created_at": "2022-01-25T13:17:00.000Z"
+    },
+    {
+      "text": "@mayarquino Começou ontem a imersão em React da @AluraOnline !\nVou começar a fazer hoje, ontem não consegui.\nÉ um bom começo :)",
+      "conversation_id": "1485851993356873733",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "author_id": "15808817",
+      "id": "1485964008544948224",
+      "in_reply_to_user_id": "1004859099979411457",
+      "created_at": "2022-01-25T13:13:22.000Z"
+    },
+    {
+      "text": "RT @juniormartinxo: A Imersão @AluraOnline  é sempre muito divertida, é a oportunidade de refrescar alguns conceitos e aprender uns paranau…",
+      "conversation_id": "1485961997606957058",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "14263050",
+      "id": "1485961997606957058",
+      "created_at": "2022-01-25T13:05:22.000Z"
+    },
+    {
+      "text": "@apatinharod @AluraOnline Recebi sim. Você entrou em contato com o pessoal do suporte?",
+      "conversation_id": "1484282635811700741",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "1228286942707691525",
+      "id": "1485955454215897091",
+      "in_reply_to_user_id": "1445140257083691023",
+      "created_at": "2022-01-25T12:39:22.000Z"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2013-07-03T20:02:23.000Z",
+        "id": "1566580880",
+        "name": "Alura",
+        "username": "AluraOnline"
+      },
+      {
+        "created_at": "2016-10-16T03:29:09.000Z",
+        "id": "787495566917898241",
+        "name": "Clara | 📖 : Orgulho e Preconceito",
+        "username": "LaraUchiha_"
+      },
+      {
+        "created_at": "2011-03-03T18:13:09.000Z",
+        "id": "260346820",
+        "name": "Aloy",
+        "username": "LuStrica"
+      },
+      {
+        "created_at": "2018-05-09T17:58:08.000Z",
+        "id": "994275341454774274",
+        "name": "Flávio Latorre",
+        "username": "fh_latorre"
+      },
+      {
+        "created_at": "2008-08-11T14:46:13.000Z",
+        "id": "15808817",
+        "name": "Aline Bastos",
+        "username": "AlineBastos"
+      },
+      {
+        "created_at": "2008-03-31T02:59:54.000Z",
+        "id": "14263050",
+        "name": "Paulo Silveira",
+        "username": "paulo_caelum"
+      },
+      {
+        "created_at": "2020-02-14T11:56:50.000Z",
+        "id": "1228286942707691525",
+        "name": "🌺 carol",
+        "username": "bioconstrutora"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1485977374667812866",
+    "oldest_id": "1485955454215897091",
+    "result_count": 9,
+    "next_token": "b26v89c19zqg8o3fpe47899ovxxkmjc7k5348oqwg714t"
+  }
+}
+{
+  "data": [
+    {
+      "in_reply_to_user_id": "1228286942707691525",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2022-01-25T12:33:00.000Z",
+      "text": "@bioconstrutora @AluraOnline Você recebeu seu acesso? Também consegui o curso mas até agora nada",
+      "id": "1485953851484262410",
+      "author_id": "1445140257083691023",
+      "conversation_id": "1484282635811700741"
+    },
+    {
+      "in_reply_to_user_id": "2793323465",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2022-01-25T11:21:35.000Z",
+      "text": "@Luciane_lf @AluraOnline @omariosouto Está sendo bem legal né?",
+      "id": "1485935878040084485",
+      "author_id": "1035093640232820738",
+      "conversation_id": "1485726602772295685"
+    },
+    {
+      "in_reply_to_user_id": "1566580880",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2022-01-25T11:12:45.000Z",
+      "text": "@AluraOnline @omariosouto @paulo_caelum https://t.co/2EoYOw6D2U",
+      "id": "1485933657084899332",
+      "author_id": "1011415940955811841",
+      "conversation_id": "1485697505862029318"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2022-01-25T11:08:21.000Z",
+      "text": "#NowPlaying #PodCast @AluraOnline #HipstersPontoTech - SEO moderno  https://t.co/tKqvCSto6W",
+      "id": "1485932547557187592",
+      "author_id": "31534627",
+      "conversation_id": "1485932547557187592"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "created_at": "2022-01-25T10:17:28.000Z",
+      "text": "1° dia da Imersão React finalizado com sucesso ❤️🦇 #TheBatman\n\n#ImersaoReact @AluraOnline @omariosouto https://t.co/9nBv3AOyKi",
+      "id": "1485919742070333443",
+      "author_id": "1183428562193440770",
+      "conversation_id": "1485919742070333443"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "1445140257083691023",
+        "name": "Patricia Rodrigues",
+        "username": "apatinharod",
+        "created_at": "2021-10-04T21:34:42.000Z"
+      },
+      {
+        "id": "1035093640232820738",
+        "name": "Leticia 'levxyca' 💫 (ela/dela)",
+        "username": "levxyca",
+        "created_at": "2018-08-30T09:15:29.000Z"
+      },
+      {
+        "id": "1011415940955811841",
+        "name": "Liz Vidotti",
+        "username": "Lizvidotti",
+        "created_at": "2018-06-26T01:08:46.000Z"
+      },
+      {
+        "id": "31534627",
+        "name": "José Soares",
+        "username": "josedesoares",
+        "created_at": "2009-04-15T21:57:05.000Z"
+      },
+      {
+        "id": "1183428562193440770",
+        "name": "‎ً",
+        "username": "celycristhyne",
+        "created_at": "2019-10-13T17:05:52.000Z"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1485953851484262410",
+    "oldest_id": "1485919742070333443",
+    "result_count": 5
+  }
+}
